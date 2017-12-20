@@ -1,0 +1,19 @@
+{
+  "name": "cordovaclipboard",
+  "version": "1.0.0",
+  "description": "Clipboard management plugin for Cordova/PhoneGap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rheh/CordovaClipboard.git"
+  },
+  "author": "Ray Hammond",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rheh/CordovaClipboard/issues"
+  },
+  "homepage": "https://github.com/rheh/CordovaClipboard#readme"
+}
