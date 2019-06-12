@@ -25,7 +25,7 @@ Example:
 
 - The plugin only works with text content.
 
-### Windows Phone
+### Windows Phone and Windows UWP
 
 - The Windows Phone platform doesn't allow applications to read the content of the clipboard. Using the `paste` method will return an error.
 
