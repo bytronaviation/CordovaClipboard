@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-clipboard-with-windows",
+  "name": "cordovaclipboard",
   "version": "1.0.1",
   "description": "Clipboard management plugin for Cordova/PhoneGap",
   "main": "index.js",
