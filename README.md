@@ -1,7 +1,7 @@
 Clipboard
 =========
 
-Clipboard management plugin for Cordova/PhoneGap that supports iOS, Android, and Windows Phone 8.
+Clipboard management plugin for Cordova/PhoneGap that supports iOS, Android, Windows Phone 8 and Windows UWP.
 
 ## Usage
 
