@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-clipboard-with-windows",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Clipboard management plugin for Cordova/PhoneGap",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/bytronaviation/CordovaClipboard/issues"
   },
-  "homepage": "https://github.com/bytronaviation/CordovaClipboard#readme"
+  "homepage": "https://github.com/bytronaviation/CordovaClipboard#readme",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-windows"
+  ]
 }
