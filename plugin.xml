@@ -6,6 +6,7 @@
 
     <engines>
         <engine name="cordova" version=">=3.0.0" />
+        <engine name="cordova-windows" version=">=4.4.0" />
     </engines>
 
     <name>Clipboard</name>
@@ -54,6 +55,13 @@
         </config-file>
 
         <source-file src="src/wp8/Clipboard.cs" />
+    </platform>
+
+    <!-- Windows 10 -->
+    <platform name="windows">
+        <js-module src="src/windows/clipboardPluginProxy.js" name="ClipboardProxy">
+            <merges target="" />
+        </js-module>
     </platform>
 
 </plugin>
